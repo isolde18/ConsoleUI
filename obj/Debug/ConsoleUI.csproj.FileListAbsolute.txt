@@ -1,0 +1,7 @@
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\FTCC\source\repos\GTC\ConsoleUI\obj\Debug\ConsoleUI.pdb
